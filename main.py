@@ -1,5 +1,5 @@
 
-print("Welcome to the tip generator")
+print("Welcome to the bill split generator")
 
 a=float(input("input your bill amount "))
 b=float(input("Enter the tip you want to give in percentage "))
